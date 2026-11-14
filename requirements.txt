@@ -1,0 +1,7 @@
+dbt-core>=1.8,<2
+dbt-duckdb>=1.8,<2
+duckdb>=1.1
+sqlglot>=25
+PyYAML>=6
+anthropic>=0.40
+pytest>=8
